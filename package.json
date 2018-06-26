@@ -1,0 +1,27 @@
+{
+  "name": "informix-nodejs-howto",
+  "version": "1.0.0",
+  "description": "NodeJS informix Connectivity Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaruvan/informix-nodejs-howto.git"
+  },
+  "keywords": [
+    "informix",
+    "ceb",
+    "centos",
+    "docker",
+    "nodejs",
+    "jayaruvan"
+  ],
+  "author": "Jayaruvan Dissanayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaruvan/informix-nodejs-howto/issues"
+  },
+  "homepage": "https://github.com/jayaruvan/informix-nodejs-howto#readme"
+}
